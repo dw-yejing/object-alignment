@@ -18,7 +18,6 @@
             <groupId>org.openjdk.jol</groupId>
             <artifactId>jol-core</artifactId>
             <version>0.15</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
 
